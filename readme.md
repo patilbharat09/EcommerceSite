@@ -1,10 +1,5 @@
 # **eCommerce Site in Django Python**
 
-
-**Log on to codeastro.com for more projects!**
-
-**Developed By Sumit Kumar**
-
 ## **Instructions**
 - Install the Requirements: pip install -r requirements.txt
 - Then, make database migrations: python manage.py makemigrations
